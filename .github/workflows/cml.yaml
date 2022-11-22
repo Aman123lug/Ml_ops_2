@@ -1,4 +1,4 @@
-name: Python program #program name optional
+name: Python package #program name optional
 
 on:
   push:
