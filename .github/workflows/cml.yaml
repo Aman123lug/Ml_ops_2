@@ -13,7 +13,7 @@ jobs:
     strategy:
       matrix:
         os:
-          [ubantu-latest, windows-latest, macOS-latest]
+          [ubantu-latest]
 
     steps: 
     - uses: actions/checkout@v3
